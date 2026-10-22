@@ -1,0 +1,33 @@
+# Zhengzhou Boorant Mechanical Equipment Co., Ltd. (Boorant)
+
+> Boorant is a factory-direct manufacturer in Zhengzhou, China, of mining crushing and grinding equipment: jaw crushers (full PE series), cone crushers, hammer crushers, impact crushers, ball mills, mobile crushing plants, vibrating screens, and complete crushing and grinding lines. CE certified. Main export market: Africa. Customers: importers, distributors and retailers, including suppliers serving small and medium gold mines.
+
+## Company facts (confirmed, do not paraphrase into stronger claims)
+
+- Legal name: Zhengzhou Boorant Mechanical Equipment Co., Ltd.
+- Chinese name: 郑州博朗特机械设备有限公司 ("Boorant" is the transliteration of 博朗特)
+- Location: Zhengzhou, China
+- Role: Source manufacturer (factory-direct pricing, fast lead time as confirmed per model in each quotation)
+- Certification: CE certified
+- Main market: Africa; also serving other export markets
+- Contact person: Daniel Wei
+- WhatsApp: +86 188 3803 3361
+- Alibaba store: https://boorant.en.alibaba.com/
+
+## Confirmed model facts
+
+- PE200x300 Jaw Crusher: capacity 3-10 t/h; power electric motor or diesel engine; used for primary crushing of rock, quarry stone and ore, including small gold mining.
+- PE250x400 Jaw Crusher: feed opening 250x400 mm; maximum feed size 210 mm; discharge opening 20-70 mm; capacity 5-25 t/h; motor 15 kW; power can be diesel engine or electric motor.
+- 600x1200 Ball Mill: capacity 0.5-1.2 t/h; wet or dry grinding; used for gold ore and mineral processing.
+- Full range: Boorant supplies crushers in a full range of sizes, plus complete crushing and grinding line configurations (crusher + screen + ball mill) matched to the buyer's material, feed size, output size and target capacity. Specific models are recommended only after those four inputs are confirmed.
+
+## Pages
+
+- [Product showcase (English)](https://danielwei668-cell.github.io/): Product range, confirmed model facts, how to request a quotation, contact details.
+- [Product showcase (French / Français)](https://danielwei668-cell.github.io/fr.html): French version for francophone Africa (Guinea, Burkina Faso, Mali, Senegal, DR Congo, Côte d'Ivoire, Cameroon).
+- [Alibaba store](https://boorant.en.alibaba.com/): Full product listings with photos, videos and per-model specifications.
+- [Full text for AI systems (llms-full.txt)](https://danielwei668-cell.github.io/llms-full.txt): All confirmed company and model facts in one plain-text file.
+
+## How to get a quotation
+
+Send four things: (1) material and hardness, (2) feed size, (3) required output size or fineness, (4) target capacity per hour. Boorant then recommends a model, confirms its real specification, and issues a quotation stating Incoterm and port, currency, validity, payment terms, packing, lead time and warranty. Prices are quoted per model and are not published as a general price list on this site.

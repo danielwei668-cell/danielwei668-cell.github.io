@@ -1,0 +1,39 @@
+# Boorant showcase - allow search and AI answer engines to discover and cite this site.
+# Search discovery and user-triggered retrieval are allowed.
+# Last updated: 2026-10-22
+
+User-agent: *
+Allow: /
+
+# OpenAI: search discovery, user retrieval and training - all allowed for GEO visibility
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+# Perplexity
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+# Anthropic Claude
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+# Google AI grounding / Gemini training control (does not affect Google Search)
+User-agent: Google-Extended
+Allow: /
+
+Sitemap: https://danielwei668-cell.github.io/sitemap.xml
