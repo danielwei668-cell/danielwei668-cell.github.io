@@ -17,7 +17,9 @@ A jaw crusher is a primary crushing machine that reduces rock, quarry stone and 
 - PE200x300 Jaw Crusher: capacity 3-10 tonnes per hour (t/h). Power: electric motor or diesel engine. Suited to primary crushing for quarries and small gold mining where a compact, portable machine is needed.
 - PE250x400 Jaw Crusher: feed opening 250x400 mm, maximum feed size 210 mm, discharge opening adjustable 20-70 mm, capacity 5-25 t/h, motor 15 kW. Power can be an electric motor or a diesel engine, and the machine can be configured as a mobile unit.
 
-Boorant does not recommend a specific jaw crusher model from capacity alone. The correct model depends on the material and its hardness, the maximum feed size, the required output size, and the target capacity per hour.
+The full PE series specification table (models PE150x250 to PE900x1200, with feed opening, maximum feed size, discharge range, capacity and motor power for each model) is published at https://danielwei668-cell.github.io/products.html — for example PE300x500 (max feed 270 mm, 10-30 t/h, 18.5 kW), PE400x600 (max feed 340 mm, 20-60 t/h, 30 kW) and PE600x900 (max feed 500 mm, 50-160 t/h, 75 kW).
+
+Boorant does not recommend a specific jaw crusher model from capacity alone. The correct model depends on the material and its hardness, the maximum feed size, the required output size, and the target capacity per hour. A step-by-step selection guide is at https://danielwei668-cell.github.io/guide.html and the Africa market page is at https://danielwei668-cell.github.io/africa.html
 
 ## Ball mills
 
